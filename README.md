@@ -23,4 +23,4 @@ JSONPowerDB is a Real-time, High Performance, Light Weight and Simple to use RES
 
 <img src="Screenshots/Database Records.png">
 
-<img src="API.png">
+<img src="Screenshots/APIs.png">
