@@ -19,7 +19,7 @@ JSONPowerDB is a Real-time, High Performance, Light Weight and Simple to use RES
 
 <img src="https://login2explore.com/jpdb/img/jpdb_intro.png">
 
-<img src="Screenshots/Dashboard.jpg">
+<img src="Screenshots/Dashboard.PNG">
 
 <img src="https://drive.google.com/file/d/1_coqjVw-N6PGf_Yk2CRggCSzdGP1ZXia/view?usp=sharing">
 
